@@ -1,5 +1,6 @@
 fun main()
 {
+    /* 
     //numeros
     val int : Int = 123
     var num2 : Float = int.toFloat()
@@ -12,5 +13,13 @@ fun main()
     //println("\nLos datos son Int $int, Long $long, Double $double, Float $float, Hexadecimal $hexadecimal y Binario $binary.")
     println(int)
     println(num2)
-
+    */
+    
+    //cadenas
+    val string = "string con \n una línea nueva"
+    val rawString = """
+    raw string es útil para
+    cadenas con muchas líneas
+    """
+    
 }
