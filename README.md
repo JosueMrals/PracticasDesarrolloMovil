@@ -9,6 +9,7 @@ Aqui se comento la linea dado que se esta declarando la variable con VAL, asi qu
 ### 2. Tipos de datos basicos en Kotlin
 
 ![Tipos](caps\2.PNG)
+<img src="caps\2.PNG"/>
 
 #### 2.1 Conversion de datos (Int > Float)
 
